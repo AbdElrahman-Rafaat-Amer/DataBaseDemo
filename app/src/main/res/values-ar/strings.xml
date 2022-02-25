@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DataBaseDemo</string>
+    <string name="message">الرسالة</string>
+    <string name="mobile_number">رقم الهاتف</string>
+    <string name="close_button">اغلق</string>
+    <string name="next_button">التالي</string>
+    <string name="empty_data">ادخل معلومات اولا لكي يتم حفظها</string>
+    <string name="no_such_data">لم يتم حفظ بيانات لهذا الرقم</string>
+    <string name="error_inSave">حدث خطأ في حفظ البيانات</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DataBaseDemo</string>
+    <string name="message">Message</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="close_button">Close</string>
+    <string name="next_button">Next</string>
+    <string name="save_shared_pref" translatable="false">Save Shared</string>
+    <string name="load_shared_pref" translatable="false">Load Shared</string>
+    <string name="save_internal" translatable="false">Save Internal</string>
+    <string name="load_internal" translatable="false">Load Internal</string>
+    <string name="save_sql" translatable="false">Save SQLite</string>
+    <string name="load_sql" translatable="false">Load SQLite</string>
+    <string name="empty_data"> Enter data first to save it</string>
+    <string name="no_such_data">No saved data for this number</string>
+    <string name="error_inSave">Error in save data</string>
+</resources>
